@@ -41,7 +41,7 @@ var_dump($x);
 $cars = array("Volvo","BMW","Toyota");
 var_dump($cars);
 
-echo strpos("Hellowwww world!", "world");
+echo strpos("Hello world!", "world");
 
 
 echo "<br>";
