@@ -1,7 +1,7 @@
 <?php
 
 $color='red' ;
-echo "Hello mrs.Haya" ;
+echo "Hello mrs.Haya Alaa edin" ;
 echo '<br>' ;
 echo $color ;
 $red='happy';
