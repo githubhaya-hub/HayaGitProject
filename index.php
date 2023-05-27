@@ -19,7 +19,7 @@ echo $a;
 echo '<br>' ;
 echo $b;
 echo '<br>' ;
-define('DB_NAME','haya');
+define('DB_NAME','Rami');
 echo DB_NAME;
 
 echo "This ", "string ", "was ", "made ", "with multiple parameters.";
