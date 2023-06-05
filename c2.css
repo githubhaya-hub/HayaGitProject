@@ -1,0 +1,5 @@
+<?php
+echo 'hello';
+$name='fisal';
+echo '$name';
+?>
